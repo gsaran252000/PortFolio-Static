@@ -10,7 +10,7 @@ function App() {
 
         <div className="max-w-5xl mx-auto px-6 py-20 ">
           <img
-            src="/saran.jpg"
+            src="public/saran.jpg"
             alt="Profile"
             className="w-40 h-40 rounded-full mx-auto mb-6 shadow-md object-cover"
           />
